@@ -1,0 +1,8 @@
+Génération : 2026-10-18T15:35:32.977395+00:00
+Produits : 17223
+AB : 554
+Biocontrôle : 635
+
+AGRITISAN | AMM=2190737 | AB=True | biocontrole=True | fonction=Fongicide | origine=2171200 | usages=44
+VITISAN | AMM=2171200 | AB=True | biocontrole=True | fonction=Fongicide | origine= | usages=44
+FLiPPER | AMM=2160527 | AB=True | biocontrole=True | fonction=Insecticide | Acaricide | origine= | usages=27
