@@ -1,9 +1,153 @@
 {
-  "generatedAt": "2026-10-20T02:33:06.212067+00:00",
-  "addedCount": 0,
+  "generatedAt": "2026-10-21T02:30:38.313898+00:00",
+  "addedCount": 13,
   "modifiedCount": 0,
   "removedCount": 0,
-  "added": [],
+  "added": [
+    {
+      "amm": "1260458",
+      "name": "819-25",
+      "tradeNames": [],
+      "status": "",
+      "function": "Matière fertilisante",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "1260459",
+      "name": "AMX BIGOUD",
+      "tradeNames": [],
+      "status": "",
+      "function": "Matière fertilisante",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "1260462",
+      "name": "FERTIACTYL MAX",
+      "tradeNames": [],
+      "status": "",
+      "function": "Matière fertilisante",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "1260466",
+      "name": "TERRAPLUS SOLUB BOOST",
+      "tradeNames": [],
+      "status": "",
+      "function": "Matière fertilisante",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "1260467",
+      "name": "OPTIM'AZOTE",
+      "tradeNames": [],
+      "status": "",
+      "function": "Additif agronomique au sens de la norme NF U44-204",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "1260469",
+      "name": "NUTRIGEO AA",
+      "tradeNames": [],
+      "status": "",
+      "function": "Additif agronomique au sens de la norme NF U44-204",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "1260479",
+      "name": "AZOTILIS WP",
+      "tradeNames": [],
+      "status": "",
+      "function": "Matière fertilisante | Additif agronomique au sens de la norme NF U44-204",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "1260504",
+      "name": "LALSTIM OSMO SP",
+      "tradeNames": [],
+      "status": "",
+      "function": "Matière fertilisante | Additif agronomique au sens de la norme NF U44-204 | Additif au sens de la norme NF U44-551",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "2260320",
+      "name": "KRYON",
+      "tradeNames": [],
+      "status": "",
+      "function": "Herbicide",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 2
+    },
+    {
+      "amm": "2260321",
+      "name": "SALIXOR",
+      "tradeNames": [],
+      "status": "",
+      "function": "Herbicide",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 1
+    },
+    {
+      "amm": "2260334",
+      "name": "BENTA 480 SL",
+      "tradeNames": [],
+      "status": "",
+      "function": "Herbicide",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 2
+    },
+    {
+      "amm": "2260516",
+      "name": "",
+      "tradeNames": [],
+      "status": "AUTORISE",
+      "function": "",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "6260468",
+      "name": "OLIXIR",
+      "tradeNames": [],
+      "status": "",
+      "function": "Matière fertilisante | Additif agronomique au sens de la norme NF U44-204",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    }
+  ],
   "modified": [],
   "removedFromDataset": []
 }
