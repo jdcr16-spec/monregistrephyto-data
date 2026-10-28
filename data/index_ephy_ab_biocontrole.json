@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27T02:15:56.840537+00:00",
+  "generatedAt": "2026-10-28T02:17:58.385924+00:00",
   "source": "Données E-Phy - Anses",
-  "resource": "decisionamm-intrant-format-csv-20261020-utf8.zip",
-  "totalProducts": 17236,
+  "resource": "decisionamm-intrant-format-csv-20261027-utf8.zip",
+  "totalProducts": 17242,
   "abCount": 554,
   "biocontrolCount": 635,
   "products": [
@@ -22755,6 +22755,28 @@
       "usageCount": 0
     },
     {
+      "amm": "2260525",
+      "name": "",
+      "tradeNames": [],
+      "status": "AUTORISE",
+      "function": "",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "2260545",
+      "name": "",
+      "tradeNames": [],
+      "status": "AUTORISE",
+      "function": "",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
       "amm": "5000014",
       "name": "MICROTHIOL",
       "tradeNames": [],
@@ -31439,7 +31461,9 @@
       "name": "RESOR",
       "tradeNames": [
         "TILUX",
-        "TERCOSTAR"
+        "TERCOSTAR",
+        "MAVOL",
+        "LINOR"
       ],
       "status": "",
       "function": "Stimul. Déf. Plantes - Maladies | Fongicide",
@@ -108982,6 +109006,17 @@
       "usageCount": 5
     },
     {
+      "amm": "2260529",
+      "name": "CASARALL",
+      "tradeNames": [],
+      "status": "",
+      "function": "Fongicide",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 18
+    },
+    {
       "amm": "9500431",
       "name": "CASOAR",
       "tradeNames": [],
@@ -115335,7 +115370,7 @@
       "ab": false,
       "biocontrol": false,
       "originAmm": "",
-      "usageCount": 26
+      "usageCount": 28
     },
     {
       "amm": "2180334",
@@ -116735,7 +116770,9 @@
       "name": "LIFE SCIENTIFIC DIFENOCONAZOLE",
       "tradeNames": [
         "DIFENOSTAR",
-        "HOTTE"
+        "HOTTE",
+        "VAREN",
+        "TIMAR"
       ],
       "status": "",
       "function": "Fongicide",
@@ -118960,6 +118997,17 @@
       "biocontrol": false,
       "originAmm": "",
       "usageCount": 2
+    },
+    {
+      "amm": "2260308",
+      "name": "OBSERVER",
+      "tradeNames": [],
+      "status": "",
+      "function": "Fongicide",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 3
     },
     {
       "amm": "9900222",
@@ -123098,6 +123146,17 @@
       "biocontrol": false,
       "originAmm": "",
       "usageCount": 8
+    },
+    {
+      "amm": "2260530",
+      "name": "SEGADOR",
+      "tradeNames": [],
+      "status": "",
+      "function": "Fongicide",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 18
     },
     {
       "amm": "9700467",
@@ -135674,6 +135733,17 @@
       "usageCount": 1
     },
     {
+      "amm": "2260302",
+      "name": "CAPVER",
+      "tradeNames": [],
+      "status": "",
+      "function": "Herbicide",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 6
+    },
+    {
       "amm": "7100016",
       "name": "CARAGARDE",
       "tradeNames": [],
@@ -136959,7 +137029,10 @@
     {
       "amm": "2260289",
       "name": "CLAYTON EL NINO SC",
-      "tradeNames": [],
+      "tradeNames": [
+        "LEVANTER",
+        "ETESIAN"
+      ],
       "status": "",
       "function": "Herbicide",
       "ab": false,
@@ -145436,7 +145509,7 @@
       "ab": false,
       "biocontrol": false,
       "originAmm": "",
-      "usageCount": 22
+      "usageCount": 2
     },
     {
       "amm": "8600053",
@@ -156488,7 +156561,7 @@
       "ab": false,
       "biocontrol": false,
       "originAmm": "",
-      "usageCount": 8
+      "usageCount": 18
     },
     {
       "amm": "9900026",

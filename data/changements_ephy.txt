@@ -1,4 +1,14 @@
-Mise à jour : 2026-10-27T02:34:38.363536+00:00
-Ajoutés : 0
-Modifiés : 0
+Mise à jour : 2026-10-28T02:32:07.039052+00:00
+Ajoutés : 6
+Modifiés : 3
 Absents du nouveau jeu : 0
+
+AJOUT | 2260302 | CAPVER
+AJOUT | 2260308 | OBSERVER
+AJOUT | 2260525 | 
+AJOUT | 2260529 | CASARALL
+AJOUT | 2260530 | SEGADOR
+AJOUT | 2260545 | 
+MODIFIÉ | 2060086 | INSIGNIA | usageCount
+MODIFIÉ | 2250411 | GRAMIGUARD 240 | usageCount
+MODIFIÉ | 9900411 | RETRIEVE 20 | usageCount
