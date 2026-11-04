@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-03T02:15:34.890796+00:00",
+  "generatedAt": "2026-11-04T02:15:48.661799+00:00",
   "source": "Données E-Phy - Anses",
-  "resource": "decisionamm-intrant-format-csv-20261027-utf8.zip",
-  "totalProducts": 17242,
+  "resource": "decisionamm-intrant-format-csv-20261103-utf8.zip",
+  "totalProducts": 17243,
   "abCount": 554,
   "biocontrolCount": 635,
   "products": [
@@ -24296,7 +24296,7 @@
       "ab": true,
       "biocontrol": true,
       "originAmm": "",
-      "usageCount": 4
+      "usageCount": 7
     },
     {
       "amm": "2180120",
@@ -24716,7 +24716,7 @@
       "ab": true,
       "biocontrol": true,
       "originAmm": "",
-      "usageCount": 3
+      "usageCount": 4
     },
     {
       "amm": "2190673",
@@ -25310,7 +25310,7 @@
       "ab": true,
       "biocontrol": true,
       "originAmm": "",
-      "usageCount": 51
+      "usageCount": 53
     },
     {
       "amm": "2180630",
@@ -123312,7 +123312,8 @@
         "MIRROR",
         "PALLAS",
         "STAVENTO",
-        "NAFABO"
+        "NAFABO",
+        "MCOY 500SC"
       ],
       "status": "",
       "function": "Fongicide",
@@ -162249,7 +162250,7 @@
       "ab": false,
       "biocontrol": false,
       "originAmm": "",
-      "usageCount": 8
+      "usageCount": 18
     },
     {
       "amm": "2210113",
@@ -186134,6 +186135,17 @@
       "usageCount": 0
     },
     {
+      "amm": "6240144",
+      "name": "MAX 2023",
+      "tradeNames": [],
+      "status": "",
+      "function": "Matière fertilisante | Additif agronomique au sens de la norme NF U44-204 | Additif au sens de la norme NF U44-551",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
       "amm": "6200054",
       "name": "YNFRASS",
       "tradeNames": [],
@@ -190714,17 +190726,6 @@
       "usageCount": 0
     },
     {
-      "amm": "6240144",
-      "name": "MAX 2023",
-      "tradeNames": [],
-      "status": "",
-      "function": "Préparation fongique",
-      "ab": false,
-      "biocontrol": false,
-      "originAmm": "",
-      "usageCount": 0
-    },
-    {
       "amm": "1170375",
       "name": "MYCORRHIZAE PREMIER TECH-P501",
       "tradeNames": [],
@@ -191734,6 +191735,17 @@
       "biocontrol": false,
       "originAmm": "",
       "usageCount": 15
+    },
+    {
+      "amm": "2260244",
+      "name": "PROAGRIWAX VIVARIUM",
+      "tradeNames": [],
+      "status": "",
+      "function": "Régulateur de croissance",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 1
     },
     {
       "amm": "2100070",

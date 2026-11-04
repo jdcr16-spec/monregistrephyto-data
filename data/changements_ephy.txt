@@ -1,4 +1,11 @@
-Mise à jour : 2026-11-03T02:30:30.965313+00:00
-Ajoutés : 0
-Modifiés : 0
+Mise à jour : 2026-11-04T02:30:11.973830+00:00
+Ajoutés : 1
+Modifiés : 5
 Absents du nouveau jeu : 0
+
+AJOUT | 2260244 | PROAGRIWAX VIVARIUM
+MODIFIÉ | 2080108 | NEXY | usageCount
+MODIFIÉ | 2180651 | TAEGRO | usageCount
+MODIFIÉ | 2190265 | ECHIQUIER | usageCount
+MODIFIÉ | 6240144 | MAX 2023 | function
+MODIFIÉ | 9900412 | TOMIGAN 20 | usageCount
