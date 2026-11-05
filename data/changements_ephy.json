@@ -1,72 +1,9 @@
 {
-  "generatedAt": "2026-11-04T02:30:11.973830+00:00",
-  "addedCount": 1,
-  "modifiedCount": 5,
+  "generatedAt": "2026-11-05T02:35:06.982810+00:00",
+  "addedCount": 0,
+  "modifiedCount": 0,
   "removedCount": 0,
-  "added": [
-    {
-      "amm": "2260244",
-      "name": "PROAGRIWAX VIVARIUM",
-      "tradeNames": [],
-      "status": "",
-      "function": "Régulateur de croissance",
-      "ab": false,
-      "biocontrol": false,
-      "originAmm": "",
-      "usageCount": 1
-    }
-  ],
-  "modified": [
-    {
-      "amm": "2080108",
-      "name": "NEXY",
-      "changes": {
-        "usageCount": {
-          "before": 3,
-          "after": 4
-        }
-      }
-    },
-    {
-      "amm": "2180651",
-      "name": "TAEGRO",
-      "changes": {
-        "usageCount": {
-          "before": 51,
-          "after": 53
-        }
-      }
-    },
-    {
-      "amm": "2190265",
-      "name": "ECHIQUIER",
-      "changes": {
-        "usageCount": {
-          "before": 4,
-          "after": 7
-        }
-      }
-    },
-    {
-      "amm": "6240144",
-      "name": "MAX 2023",
-      "changes": {
-        "function": {
-          "before": "Préparation fongique",
-          "after": "Matière fertilisante | Additif agronomique au sens de la norme NF U44-204 | Additif au sens de la norme NF U44-551"
-        }
-      }
-    },
-    {
-      "amm": "9900412",
-      "name": "TOMIGAN 20",
-      "changes": {
-        "usageCount": {
-          "before": 8,
-          "after": 18
-        }
-      }
-    }
-  ],
+  "added": [],
+  "modified": [],
   "removedFromDataset": []
 }
