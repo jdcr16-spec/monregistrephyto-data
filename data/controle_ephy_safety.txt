@@ -1,24 +1,11 @@
-Génération : 2026-11-09T17:27:10.929733+00:00
-Produits : 13747
-Usages : 81672
-ZNT explicites : 0
-DSR explicites : 0
-DRE explicites : 0
-ZNT à vérifier : 81672
-DSR à vérifier : 81672
-
-Colonnes détectées :
-{
-  "amm": "numero AMM",
-  "usageCode": "identifiant usage",
-  "usage": "identifiant usage",
-  "crop": null,
-  "dose": "dose retenue",
-  "doseUnit": "dose retenue unite",
-  "dar": "delai avant recolte jour",
-  "dre": null,
-  "znt": "ZNT aquatique (en m)",
-  "dvp": null,
-  "dsr": null,
-  "conditions": null
-}
+Génération : 2026-11-09T17:35:11.224192+00:00
+Produits autorisés : 1769
+Usages autorisés : 18500
+ZNT extraites : 15527
+Répartition ZNT : {5: 10781, 20: 3589, 50: 1135, 100: 22}
+DSR explicites : 2522
+Répartition DSR explicites : {5: 291, 10: 2054, 20: 158, 100: 19}
+DRE disponibles : 18500
+Répartition DRE : {6: 4912, 8: 3873, 24: 3187, 48: 6528}
+Usages sans ZNT : 2973
+Usages sans DSR explicite : 15978
