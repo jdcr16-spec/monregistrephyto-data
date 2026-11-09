@@ -1,0 +1,24 @@
+Génération : 2026-11-09T17:27:10.929733+00:00
+Produits : 13747
+Usages : 81672
+ZNT explicites : 0
+DSR explicites : 0
+DRE explicites : 0
+ZNT à vérifier : 81672
+DSR à vérifier : 81672
+
+Colonnes détectées :
+{
+  "amm": "numero AMM",
+  "usageCode": "identifiant usage",
+  "usage": "identifiant usage",
+  "crop": null,
+  "dose": "dose retenue",
+  "doseUnit": "dose retenue unite",
+  "dar": "delai avant recolte jour",
+  "dre": null,
+  "znt": "ZNT aquatique (en m)",
+  "dvp": null,
+  "dsr": null,
+  "conditions": null
+}
