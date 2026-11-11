@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T02:19:56.981902+00:00",
+  "generatedAt": "2026-11-11T02:19:47.388549+00:00",
   "source": "Données E-Phy - Anses",
-  "resource": "decisionamm-intrant-format-csv-20261103-utf8.zip",
-  "totalProducts": 17243,
-  "abCount": 554,
+  "resource": "decisionamm-intrant-format-csv-20261110-utf8.zip",
+  "totalProducts": 17253,
+  "abCount": 558,
   "biocontrolCount": 635,
   "products": [
     {
@@ -22777,6 +22777,50 @@
       "usageCount": 0
     },
     {
+      "amm": "2260571",
+      "name": "",
+      "tradeNames": [],
+      "status": "AUTORISE",
+      "function": "",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "2260574",
+      "name": "",
+      "tradeNames": [],
+      "status": "AUTORISE",
+      "function": "",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "2260580",
+      "name": "",
+      "tradeNames": [],
+      "status": "AUTORISE",
+      "function": "",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "2260581",
+      "name": "",
+      "tradeNames": [],
+      "status": "AUTORISE",
+      "function": "",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
       "amm": "5000014",
       "name": "MICROTHIOL",
       "tradeNames": [],
@@ -23210,7 +23254,9 @@
     {
       "amm": "2260003",
       "name": "CYDIA PRO SPRAY",
-      "tradeNames": [],
+      "tradeNames": [
+        "EXPLOYO FRUIT CP"
+      ],
       "status": "",
       "function": "Attractif phéromone (confusion sexuelle)",
       "ab": true,
@@ -24098,6 +24144,17 @@
       "biocontrol": true,
       "originAmm": "",
       "usageCount": 1
+    },
+    {
+      "amm": "2260282",
+      "name": "AXPERA",
+      "tradeNames": [],
+      "status": "",
+      "function": "Fongicide",
+      "ab": true,
+      "biocontrol": true,
+      "originAmm": "",
+      "usageCount": 11
     },
     {
       "amm": "2160475",
@@ -25434,7 +25491,7 @@
       "ab": true,
       "biocontrol": true,
       "originAmm": "",
-      "usageCount": 3
+      "usageCount": 4
     },
     {
       "amm": "2150839",
@@ -27128,7 +27185,9 @@
     {
       "amm": "2260127",
       "name": "GRAPHOLITA PRO SPRAY",
-      "tradeNames": [],
+      "tradeNames": [
+        "EXPLOYO FRUIT GM"
+      ],
       "status": "",
       "function": "Insecticide | Attractif phéromone (confusion sexuelle)",
       "ab": true,
@@ -29244,6 +29303,39 @@
       "usageCount": 0
     },
     {
+      "amm": "2260256",
+      "name": "ACTIMALT IRONMAX",
+      "tradeNames": [],
+      "status": "",
+      "function": "Molluscicide",
+      "ab": true,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 1
+    },
+    {
+      "amm": "2260267",
+      "name": "ACTIMALT LUCIO",
+      "tradeNames": [],
+      "status": "",
+      "function": "Molluscicide",
+      "ab": true,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 1
+    },
+    {
+      "amm": "2260268",
+      "name": "ACTIMALT SUNBO",
+      "tradeNames": [],
+      "status": "",
+      "function": "Molluscicide",
+      "ab": true,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 1
+    },
+    {
       "amm": "1210894",
       "name": "FOSFIX PLUS",
       "tradeNames": [],
@@ -29500,17 +29592,6 @@
       "biocontrol": true,
       "originAmm": "",
       "usageCount": 5
-    },
-    {
-      "amm": "2260282",
-      "name": "AXPERA",
-      "tradeNames": [],
-      "status": "",
-      "function": "Fongicide",
-      "ab": false,
-      "biocontrol": true,
-      "originAmm": "",
-      "usageCount": 11
     },
     {
       "amm": "2190162",
@@ -100595,28 +100676,6 @@
       "usageCount": 21
     },
     {
-      "amm": "1220960",
-      "name": "AGRISILICA FINES PLUS",
-      "tradeNames": [],
-      "status": "",
-      "function": "Additif agronomique",
-      "ab": false,
-      "biocontrol": false,
-      "originAmm": "",
-      "usageCount": 0
-    },
-    {
-      "amm": "1220961",
-      "name": "AGRISILICA GRANULES PLUS",
-      "tradeNames": [],
-      "status": "",
-      "function": "Additif agronomique",
-      "ab": false,
-      "biocontrol": false,
-      "originAmm": "",
-      "usageCount": 0
-    },
-    {
       "amm": "1160002",
       "name": "BASFOLIAR KELP",
       "tradeNames": [
@@ -100740,17 +100799,6 @@
       "usageCount": 0
     },
     {
-      "amm": "1250119",
-      "name": "PTB180-P2",
-      "tradeNames": [],
-      "status": "",
-      "function": "Additif agronomique",
-      "ab": false,
-      "biocontrol": false,
-      "originAmm": "",
-      "usageCount": 0
-    },
-    {
       "amm": "1250452",
       "name": "PTB297-P20",
       "tradeNames": [],
@@ -100822,6 +100870,28 @@
       "tradeNames": [],
       "status": "",
       "function": "Additif agronomique",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "1220960",
+      "name": "AGRISILICA FINES PLUS",
+      "tradeNames": [],
+      "status": "",
+      "function": "Additif agronomique au sens de la norme NF U44-204",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "1220961",
+      "name": "AGRISILICA GRANULES PLUS",
+      "tradeNames": [],
+      "status": "",
+      "function": "Additif agronomique au sens de la norme NF U44-204",
       "ab": false,
       "biocontrol": false,
       "originAmm": "",
@@ -101031,6 +101101,17 @@
       "tradeNames": [],
       "status": "",
       "function": "Additif agronomique | Préparation fongique",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "1250119",
+      "name": "PTB180-P2",
+      "tradeNames": [],
+      "status": "",
+      "function": "Additif au sens de la norme NF U44-551",
       "ab": false,
       "biocontrol": false,
       "originAmm": "",
@@ -111066,7 +111147,9 @@
     {
       "amm": "2160726",
       "name": "DELAN PRO",
-      "tradeNames": [],
+      "tradeNames": [
+        "OBECLA PRO"
+      ],
       "status": "",
       "function": "Fongicide",
       "ab": false,
@@ -114039,7 +114122,12 @@
     {
       "amm": "2260138",
       "name": "FRISBE EC",
-      "tradeNames": [],
+      "tradeNames": [
+        "BRINA",
+        "LUXIA",
+        "ANOVA",
+        "MARKI"
+      ],
       "status": "",
       "function": "Fongicide",
       "ab": false,
@@ -114306,7 +114394,8 @@
       "tradeNames": [
         "ZENACT",
         "YAKUSA",
-        "RIDUZO"
+        "RIDUZO",
+        "VANZATO"
       ],
       "status": "",
       "function": "Fongicide",
@@ -114731,7 +114820,11 @@
     {
       "amm": "2260232",
       "name": "GOLEO PRIME",
-      "tradeNames": [],
+      "tradeNames": [
+        "METLOS",
+        "CEBOR",
+        "PAVIA"
+      ],
       "status": "",
       "function": "Fongicide",
       "ab": false,
@@ -116887,7 +116980,9 @@
       "tradeNames": [
         "BAXI",
         "NILEVA",
-        "MENARELLA"
+        "MENARELLA",
+        "NUTAN",
+        "REVEL"
       ],
       "status": "",
       "function": "Fongicide",
@@ -121991,7 +122086,9 @@
       "name": "REVUS PRO",
       "tradeNames": [
         "PERGADO PRO",
-        "CARIAL PRO"
+        "CARIAL PRO",
+        "GERGOVI PRO",
+        "REGUANCE PRO"
       ],
       "status": "",
       "function": "Fongicide",
@@ -124089,7 +124186,9 @@
     {
       "amm": "2230173",
       "name": "SPORAX",
-      "tradeNames": [],
+      "tradeNames": [
+        "POVESI"
+      ],
       "status": "",
       "function": "Fongicide",
       "ab": false,
@@ -124395,7 +124494,9 @@
     {
       "amm": "2250545",
       "name": "STARINTA",
-      "tradeNames": [],
+      "tradeNames": [
+        "ORVARA"
+      ],
       "status": "",
       "function": "Fongicide",
       "ab": false,
@@ -125688,6 +125789,17 @@
       "biocontrol": false,
       "originAmm": "",
       "usageCount": 14
+    },
+    {
+      "amm": "2260326",
+      "name": "TEMPIO",
+      "tradeNames": [],
+      "status": "",
+      "function": "Fongicide",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 1
     },
     {
       "amm": "2200063",
@@ -127742,7 +127854,9 @@
     {
       "amm": "2260318",
       "name": "XENCO",
-      "tradeNames": [],
+      "tradeNames": [
+        "FUTURA UNO"
+      ],
       "status": "",
       "function": "Fongicide",
       "ab": false,
@@ -141633,7 +141747,8 @@
       "amm": "2000301",
       "name": "EQUIP",
       "tradeNames": [
-        "CUBIX"
+        "CUBIX",
+        "MUSKETEER PLUS"
       ],
       "status": "",
       "function": "Herbicide",
@@ -157602,6 +157717,17 @@
       "usageCount": 21
     },
     {
+      "amm": "2260310",
+      "name": "ROXY XL",
+      "tradeNames": [],
+      "status": "",
+      "function": "Herbicide",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 16
+    },
+    {
       "amm": "9300528",
       "name": "RPJ DESHERBANT TOTAL GRANULE",
       "tradeNames": [],
@@ -158979,7 +159105,9 @@
       "amm": "2170422",
       "name": "SIMBA",
       "tradeNames": [
-        "FALSTAR"
+        "FALSTAR",
+        "TASSEL",
+        "GOLDCOB"
       ],
       "status": "",
       "function": "Herbicide",
@@ -169641,7 +169769,9 @@
     {
       "amm": "2230388",
       "name": "FLEXUM",
-      "tradeNames": [],
+      "tradeNames": [
+        "VERSIM"
+      ],
       "status": "",
       "function": "Insecticide",
       "ab": false,
@@ -177211,17 +177341,6 @@
       "usageCount": 0
     },
     {
-      "amm": "1250675",
-      "name": "AGROSIL LR3",
-      "tradeNames": [],
-      "status": "",
-      "function": "Matière fertilisante",
-      "ab": false,
-      "biocontrol": false,
-      "originAmm": "",
-      "usageCount": 0
-    },
-    {
       "amm": "1180070",
       "name": "AGROSIL TURF ALGIN",
       "tradeNames": [],
@@ -179234,7 +179353,9 @@
     {
       "amm": "1200438",
       "name": "EXPONAN",
-      "tradeNames": [],
+      "tradeNames": [
+        "WALLIS NEO"
+      ],
       "status": "",
       "function": "Matière fertilisante",
       "ab": false,
@@ -179824,6 +179945,17 @@
       "usageCount": 0
     },
     {
+      "amm": "1260550",
+      "name": "FIATA BOOST",
+      "tradeNames": [],
+      "status": "",
+      "function": "Matière fertilisante",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
       "amm": "1160069",
       "name": "FIBA-ZORB PLUS",
       "tradeNames": [],
@@ -180006,7 +180138,9 @@
     {
       "amm": "1190835",
       "name": "FORTHIAL",
-      "tradeNames": [],
+      "tradeNames": [
+        "CEREVER"
+      ],
       "status": "",
       "function": "Matière fertilisante",
       "ab": false,
@@ -182639,7 +182773,9 @@
     {
       "amm": "1200091",
       "name": "OREADE",
-      "tradeNames": [],
+      "tradeNames": [
+        "MULTOLEO SP"
+      ],
       "status": "",
       "function": "Matière fertilisante",
       "ab": false,
@@ -184698,7 +184834,11 @@
     {
       "amm": "6240057",
       "name": "TERSEN LIQUIDE",
-      "tradeNames": [],
+      "tradeNames": [
+        "EDEN SOL LIQ",
+        "MEZA LOMBRIC",
+        "MILPA TERRA"
+      ],
       "status": "",
       "function": "Matière fertilisante",
       "ab": false,
@@ -186140,6 +186280,17 @@
       "tradeNames": [],
       "status": "",
       "function": "Matière fertilisante | Additif agronomique au sens de la norme NF U44-204 | Additif au sens de la norme NF U44-551",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "1250675",
+      "name": "AGROSIL LR3",
+      "tradeNames": [],
+      "status": "",
+      "function": "Matière fertilisante | Additif au sens de la norme NF U44-551",
       "ab": false,
       "biocontrol": false,
       "originAmm": "",
@@ -191540,7 +191691,8 @@
       "tradeNames": [
         "TREXXUS",
         "FLEXA",
-        "WINDSAR"
+        "WINDSAR",
+        "TREXSTAR"
       ],
       "status": "",
       "function": "Régulateur de croissance",

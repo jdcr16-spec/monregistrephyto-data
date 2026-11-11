@@ -1,6 +1,6 @@
-Génération : 2026-11-10T02:19:56.981902+00:00
-Produits : 17243
-AB : 554
+Génération : 2026-11-11T02:19:47.388549+00:00
+Produits : 17253
+AB : 558
 Biocontrôle : 635
 
 AGRITISAN | AMM=2190737 | AB=True | biocontrole=True | fonction=Fongicide | origine=2171200 | usages=44

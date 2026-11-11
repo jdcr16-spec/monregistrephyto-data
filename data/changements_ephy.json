@@ -1,9 +1,181 @@
 {
-  "generatedAt": "2026-11-10T02:34:03.386373+00:00",
-  "addedCount": 0,
-  "modifiedCount": 0,
+  "generatedAt": "2026-11-11T02:34:42.591447+00:00",
+  "addedCount": 10,
+  "modifiedCount": 6,
   "removedCount": 0,
-  "added": [],
-  "modified": [],
+  "added": [
+    {
+      "amm": "1260550",
+      "name": "FIATA BOOST",
+      "tradeNames": [],
+      "status": "",
+      "function": "Matière fertilisante",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "2260256",
+      "name": "ACTIMALT IRONMAX",
+      "tradeNames": [],
+      "status": "",
+      "function": "Molluscicide",
+      "ab": true,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 1
+    },
+    {
+      "amm": "2260267",
+      "name": "ACTIMALT LUCIO",
+      "tradeNames": [],
+      "status": "",
+      "function": "Molluscicide",
+      "ab": true,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 1
+    },
+    {
+      "amm": "2260268",
+      "name": "ACTIMALT SUNBO",
+      "tradeNames": [],
+      "status": "",
+      "function": "Molluscicide",
+      "ab": true,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 1
+    },
+    {
+      "amm": "2260310",
+      "name": "ROXY XL",
+      "tradeNames": [],
+      "status": "",
+      "function": "Herbicide",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 16
+    },
+    {
+      "amm": "2260326",
+      "name": "TEMPIO",
+      "tradeNames": [],
+      "status": "",
+      "function": "Fongicide",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 1
+    },
+    {
+      "amm": "2260571",
+      "name": "",
+      "tradeNames": [],
+      "status": "AUTORISE",
+      "function": "",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "2260574",
+      "name": "",
+      "tradeNames": [],
+      "status": "AUTORISE",
+      "function": "",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "2260580",
+      "name": "",
+      "tradeNames": [],
+      "status": "AUTORISE",
+      "function": "",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    },
+    {
+      "amm": "2260581",
+      "name": "",
+      "tradeNames": [],
+      "status": "AUTORISE",
+      "function": "",
+      "ab": false,
+      "biocontrol": false,
+      "originAmm": "",
+      "usageCount": 0
+    }
+  ],
+  "modified": [
+    {
+      "amm": "1220960",
+      "name": "AGRISILICA FINES PLUS",
+      "changes": {
+        "function": {
+          "before": "Additif agronomique",
+          "after": "Additif agronomique au sens de la norme NF U44-204"
+        }
+      }
+    },
+    {
+      "amm": "1220961",
+      "name": "AGRISILICA GRANULES PLUS",
+      "changes": {
+        "function": {
+          "before": "Additif agronomique",
+          "after": "Additif agronomique au sens de la norme NF U44-204"
+        }
+      }
+    },
+    {
+      "amm": "1250119",
+      "name": "PTB180-P2",
+      "changes": {
+        "function": {
+          "before": "Additif agronomique",
+          "after": "Additif au sens de la norme NF U44-551"
+        }
+      }
+    },
+    {
+      "amm": "1250675",
+      "name": "AGROSIL LR3",
+      "changes": {
+        "function": {
+          "before": "Matière fertilisante",
+          "after": "Matière fertilisante | Additif au sens de la norme NF U44-551"
+        }
+      }
+    },
+    {
+      "amm": "2240516",
+      "name": "TRICOTEN WP",
+      "changes": {
+        "usageCount": {
+          "before": 3,
+          "after": 4
+        }
+      }
+    },
+    {
+      "amm": "2260282",
+      "name": "AXPERA",
+      "changes": {
+        "ab": {
+          "before": false,
+          "after": true
+        }
+      }
+    }
+  ],
   "removedFromDataset": []
 }

@@ -1,11 +1,11 @@
-Génération : 2026-11-10T02:20:09.062238+00:00
-Produits autorisés : 1769
-Usages autorisés : 18500
-ZNT extraites : 15527
-Répartition ZNT : {5: 10781, 20: 3589, 50: 1135, 100: 22}
-DSR explicites : 2522
-Répartition DSR explicites : {5: 291, 10: 2054, 20: 158, 100: 19}
-DRE disponibles : 18500
-Répartition DRE : {6: 4912, 8: 3873, 24: 3187, 48: 6528}
-Usages sans ZNT : 2973
-Usages sans DSR explicite : 15978
+Génération : 2026-11-11T02:20:01.351966+00:00
+Produits autorisés : 1774
+Usages autorisés : 18521
+ZNT extraites : 15544
+Répartition ZNT : {5: 10782, 20: 3605, 50: 1135, 100: 22}
+DSR explicites : 2539
+Répartition DSR explicites : {5: 307, 10: 2055, 20: 158, 100: 19}
+DRE disponibles : 18521
+Répartition DRE : {6: 4912, 8: 3874, 24: 3187, 48: 6548}
+Usages sans ZNT : 2977
+Usages sans DSR explicite : 15982
